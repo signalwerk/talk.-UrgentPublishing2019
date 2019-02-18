@@ -1,4 +1,4 @@
-# Workshop – «Iterate books»
+# Workshop · «Iterate books»
 
 # Format
 Half day Workshop
